@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 16.0.25
+## Date: 16.04.25
 
 ## AIM
 To develop a Django application to store and retrieve data from Movies Database using Object Relational Mapping(ORM).
